@@ -24,7 +24,7 @@ To add your SwiftUI Component to the project, you need to:
 
 2. Place your .swift files related to the component inside the folder you just created.
 
-Remember: in order for the package to see it, at least your component's main View struct should be `public`. 
+Remember: in order for the package to see it, at least your component's main View struct and its body should be `public`. 
 
 ## Commit your changes
 
