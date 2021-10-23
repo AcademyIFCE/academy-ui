@@ -14,7 +14,7 @@ After cloning your fork to your machine, you should
 
 2. Create a new branch with your github username as its name and checkout to it. This can be done with the command:
 
-`git branch -b <Your-Github-Username-Here>`
+`git checkout -b <Your-Github-Username-Here>`
 
 ## Adding your SwiftUI Component
 
