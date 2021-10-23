@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "AcademyUI",
     platforms: [
-        .macOS(.v10_15),
+        .macOS(.v11),
         .iOS(.v13)
     ],
     products: [
